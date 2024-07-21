@@ -4,7 +4,7 @@ The main project with which I learned and practiced the ins and outs of React an
 
 ## Tech stacks
 
-💥 **Routing** \_\_ <img src="./techstack_logos/reactrouter-color.svg" alt="React Router Logo" width="64"/> **React Router**  
+💥 **Routing** \_\_ <img src="./techstack_logos/reactrouter-color.svg" alt="React Router Logo" width="32"/> **React Router**  
 💥 **Styling** \_\_ **Styled Components**  
 💥 **Remote State management** \_\_ **React Query**  
 💥 **UI State management** \_\_ **Context API**  
